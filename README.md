@@ -9,3 +9,6 @@ This application combines speech-to-text, image captioning, question answering, 
    ```bash
    git clone https://github.com/9643Rafia/ask-the-image.git
    cd ask-the-image
+   
+## Medium Blog Link
+https://medium.com/@f219643/building-a-multimodal-ask-the-image-app-combining-speech-vision-and-text-to-speech-e5f36897a3c4
